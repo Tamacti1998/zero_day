@@ -1,1 +1,1 @@
-Function of the command uname
+uname command's function
