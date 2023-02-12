@@ -1,1 +1,1 @@
-The project asked about the function of the command uname
+Function of the command uname
